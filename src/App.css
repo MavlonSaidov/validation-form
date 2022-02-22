@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: rgb(236, 236, 236);
+}
+.app {
+    width: 1200px;
+    height: 90vh;
+    padding: 30px;
+    border: 1px solid blue;
+}
